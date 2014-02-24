@@ -1,7 +1,0 @@
-com\nupt\domain\AttachExample.class
-me\risky\web\MainController.class
-com\nupt\domain\AttachExample$Criteria.class
-com\nupt\domain\AttachExample$Criterion.class
-com\nupt\orm\AttachMapper.class
-com\nupt\domain\Attach.class
-com\nupt\domain\AttachExample$GeneratedCriteria.class
